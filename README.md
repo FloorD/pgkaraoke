@@ -1,3 +1,5 @@
+<img src="/PGKaraoke-logo_logo-colour-transparent.png" alt="pgkaraoke logo" width="150">
+
 # pgkaraoke
 Karaoke is lyfe, everyone in PostgreSQL knows that. 
 
@@ -14,3 +16,5 @@ Karaoke is lyfe, everyone in PostgreSQL knows that.
 * PGConf EU, Athens, Greece, October 2024
 * FOSDEM, Brussels, Belgium, February 2024
 * PGConf EU, Prague, Czechia, December 2023
+
+[_Follow pgkaraoke on Bluesky_](https://bsky.app/profile/pgkaraoke.bsky.social)
