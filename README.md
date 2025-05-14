@@ -1,5 +1,3 @@
-<img src="/PGKaraoke-logo_logo-colour-transparent.png" alt="pgkaraoke logo" width="150">
-
 # pgkaraoke
 Karaoke is lyfe, everyone in PostgreSQL knows that. 
 
